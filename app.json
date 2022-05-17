@@ -1,0 +1,22 @@
+{
+    "name": "RXD-TD",
+    "description": "RXD-TD",
+    "keywords": ["vless mess"],
+    "env": {
+        "AA": {
+            "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
+            "value": "如出现错误，请检查参数格式或多尝试几次。使用自定义参数请务必先充分理解其含义"
+        },
+        "AUUID": {
+            "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站",
+            "value": "f20bef40-c1b5-4b70-bd21-85f69a407c11"
+        },
+        "CADDYIndexPage": {
+            "description": "自定义CADDY部署完成后点击View的显示页面",
+            "value": "https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip"
+        },
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "",
+    "stack": "container"
+}
