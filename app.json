@@ -14,7 +14,7 @@
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面",
             "value": "https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip"
-        },
+        }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
     "repository": "",
